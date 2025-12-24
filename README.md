@@ -12,5 +12,5 @@
 | S No | Project Name | Domain | Repository |
 | ---- | ------------ | --------------- | ---------- |
 | 01    | Deep Fake Detection | Deep Learning | ![Coming Soon](https://img.shields.io/badge/Coming-Soon-orange.svg) |
-| 02 | Market Insight | Agentic workflows | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/KalyanMurapaka45/Chatbot-Using-Langchain) |
+| 02 | Market Insight | Agentic workflows | ![Coming Soon](https://img.shields.io/badge/Coming-Soon-orange.svg) |
 
